@@ -1,34 +1,7 @@
 {
-    "scores": {
-      "emotional_impact": {
-        "score": 9.4,
-        "reason": "The overwhelming scale of the modern concrete pillar compared to historical levels, combined with the intimate detailing of exhausted families climbing the steps, elicits a profound sense of an unprecedented modern crisis.",
-        "improvement": "Enhance the lighting on the families traversing the middle steps to ensure their individual narratives don't get lost in the monumental scale of the architecture."
-      },
-      "constraint_adherence": {
-        "score": 9.5,
-        "reason": "The image flawlessly adheres to all constraints, successfully embedding the x-axis (time) into architectural epochs and the y-axis into structural height without a single text label.",
-        "improvement": "Ensure the volume or number of windows in the modern tower correlates perfectly to a real-world multiplier of the dataset, acting as a visual grid for precise data reading."
-      },
-      "visual_originality": {
-        "score": 9.3,
-        "reason": "Substituting chronological axis labels with a vertical ascent through human architectural history is a brilliant, highly original metaphor that completely transcends standard AI data visualization clichés.",
-        "improvement": "Further differentiate the specific crises of each era through the props or clothing of the people on those specific tiers to deepen the historical narrative."
-      },
-      "legibility_without_labels": {
-        "score": 8.9,
-        "reason": "A viewer can easily read a precise historical narrative—that human displacement existed in antiquity but has exploded exponentially in the modern era—using only visual variables.",
-        "improvement": "Use the repeating architectural elements (like the grid of modern windows or rows of ancient bricks) as a consistent, countable unit of measurement to convey an exact numerical value."
-      },
-      "compositional_intent": {
-        "score": 9.1,
-        "reason": "The composition masterfully uses the textural evolution of the stone and concrete to pull the eye upward, climaxing at the stark, solitary modern tower dominating the skyline.",
-        "improvement": "Slightly increase the atmospheric separation between the central data structure and the background refugee camp to make the 'chart' pop even more cleanly."
-      }
-    },
-    "overall_score": 9.2,
-    "brief_met": true,
-    "model_default_escaped": true,
-    "exhibition_worthy": true,
-    "one_line_verdict": "An exceptional synthesis of data and art, using architectural history to encode a devastating timeline of human displacement."
-  }
+  "prompt": "A surreal photorealistic conceptual landscape showing a massive stepped structure resembling a bar chart rising out of a vast, dusty refugee camp. The steps evolve architecturally through human history: starting as ancient stone ruins with carvings, then classical stone facades, older brick buildings, and finally culminating in a massive, towering modern concrete brutalist high-rise. Exhausted families with meager belongings climb the steps. The modern concrete tower is disproportionately taller than the rest, dominating the skyline, with a glowing white medical tent on its roof. Cinematic lighting, documentary photojournalism style, muted earth tones, epic scale, highly detailed, no text, no labels.",
+  "model": "Banana (Gemini Imagen)",
+  "dataset_name": "UNHCR Global Trends in Forced Displacement",
+  "dataset_url": "https://www.unhcr.org/global-trends",
+  "insight": "While human displacement has always existed throughout history, the sheer volume of forced displacement in the modern era has escalated into an unprecedented, towering crisis."
+}
